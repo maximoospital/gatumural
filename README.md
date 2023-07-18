@@ -1,27 +1,24 @@
-# [![Logo](https://i.imgur.com/b20v6nN.png)](https://github.com/maximoospital/Audionotes/)
+# [![Logo](https://i.imgur.com/b20v6nN.png)](https://github.com/maximoospital/gatumural/)
 
-### A slick, lightweight and multi-platform voicenote recorder that puts a unique spin on a classic phone app.
- [Download the app (Android only)](https://github.com/maximoospital/Audionotes/releases)
+### Un 'experimento colectivo online'
+ [Visitar](https://gatumural.maximoospital.com.ar)
 ## Features
 
-- Apple-inspired Cupertino style
-- Made in Flutter to run natively on phones as a very lightweight app, at about 7mb.
-- Animated waveforms
-- Mix text and audio, making your voicenotes a much more useful tool.
-- Light and Dark modes.
+- Dibujo colaborativo en tiempo real.
+- Paleta ilimitada de colores.
+- Tamaño y opacidad seleccionables.
+- Descargar capturas
 
 ## Screenshots
 
-Onboarding Page             |  Home Page
-:-------------------------:|:-------------------------:
 ![](https://i.imgur.com/gSickxm.png)  |  ![](https://i.imgur.com/qaTHDPM.png)
 
 ## Libraries used
 
- - [Flutter](https://github.com/flutter/flutter)
- - [Flutter_Native_Splash](https://github.com/jonbhanson/flutter_native_splash)
- - [Record](https://pub.dev/packages/record)
- - [Audio Waveforms](https://pub.dev/packages/audio_waveforms)
+ - [Express](https://github.com/flutter/flutter)
+ - [Cron](https://github.com/jonbhanson/flutter_native_splash)
+ - [Html2canvas](https://pub.dev/packages/record)
+ - [Socketio](https://pub.dev/packages/audio_waveforms)
 
 ## Run locally (as an Android app)
 
