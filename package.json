@@ -1,0 +1,27 @@
+{
+  "name": "gatumural",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "cron": "^2.3.1",
+    "express": "^4.18.2",
+    "firebase": "^10.0.0",
+    "firebase-admin": "^11.10.1",
+    "fs": "^0.0.1-security",
+    "html2canvas": "^1.4.1",
+    "http": "^0.0.1-security",
+    "mongodb": "^5.7.0",
+    "path": "^0.12.7",
+    "puppeteer": "^20.8.2",
+    "socket.io": "^4.7.1",
+    "ws": "^8.13.0"
+  }
+}
