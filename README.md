@@ -1,4 +1,4 @@
-# [![Logo](https://i.imgur.com/b20v6nN.png)](https://github.com/maximoospital/gatumural/)
+# [![Logo](https://i.imgur.com/BIFMiZ7.png)](https://github.com/maximoospital/gatumural/)
 
 ### Un 'experimento colectivo online'
  [Visitar](https://gatumural.maximoospital.com.ar)
@@ -9,19 +9,18 @@
 - Tamaño y opacidad seleccionables.
 - Descargar capturas
 
-## Screenshots
-
-![](https://i.imgur.com/gSickxm.png)  |  ![](https://i.imgur.com/qaTHDPM.png)
-
 ## Libraries used
 
- - [Express](https://github.com/flutter/flutter)
- - [Cron](https://github.com/jonbhanson/flutter_native_splash)
- - [Html2canvas](https://pub.dev/packages/record)
- - [Socketio](https://pub.dev/packages/audio_waveforms)
+ - [Express](https://www.npmjs.com/package/express)
+ - [Http](https://www.npmjs.com/package/http)
+ - [Html2canvas](https://www.npmjs.com/package/html2canvas)
+ - [Socketio](https://www.npmjs.com/package/socket.io)
+ - [fs](https://www.npmjs.com/package/fs)
+ - [path](https://www.npmjs.com/package/path)
+ - [mui](https://www.npmjs.com/package/@mui/material)
 
 ## Run locally (as an Android app)
 
-You can download the version that bests suits your phone's architecture from the [Releases](https://github.com/maximoospital/Audionotes/releases) tab, and install it as an APK.
+You can download the latest version from the [Releases](https://github.com/maximoospital/gatumural/releases) tab, install it's dependencies and run with node server.js.
 
 [![Logo](https://i.imgur.com/XlF4lM5.png)](https://github.com/maximoospital) 
