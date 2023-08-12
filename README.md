@@ -1,6 +1,6 @@
 # [![Logo](https://i.imgur.com/BIFMiZ7.png)](https://github.com/maximoospital/gatumural/)
 
-### Un 'experimento colectivo online'
+### Un 'experimento colectivo online' [proyecto abandonado y sin terminar]
  [Visitar](https://gatumural.maximoospital.com.ar)
 ## Features
 
